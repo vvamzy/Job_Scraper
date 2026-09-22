@@ -1,0 +1,10 @@
+# Generated output / artifacts
+*.xlsx
+*.csv
+page_*_debug.html
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
